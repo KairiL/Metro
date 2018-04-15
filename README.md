@@ -1,5 +1,6 @@
 # Metro
 Metro transit bus arrival tracker written in Python3
+This program was written on Ubuntu 16.04 and also includes a reference to the python library 'references', which you may have to install separately
 
 ##Running the main program
 
